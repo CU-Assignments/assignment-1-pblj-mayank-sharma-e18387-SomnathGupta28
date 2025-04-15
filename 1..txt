@@ -1,0 +1,32 @@
+1.
+
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 3
+
+
+2.
+
+
+Enter the dimensions of Matrix 1 (rows and columns): 
+2 2
+Enter elements of Matrix 1:
+1 2
+3 4
+Enter the dimensions of Matrix 2 (rows and columns): 
+2 2
+Enter elements of Matrix 2:
+5 6
+7 8
+
+
+3.
+
+Create Account:
+Name: John Doe
+Account Number: 12345
+Initial Balance: 1000
+Deposit: 500
+Withdraw: 2000
+
